@@ -10,7 +10,7 @@ Execute following command.
 ```shell script
 docker-compose up -d
 ```
-It will start PostgreSQL database and Adminer at http://localhost:9080/. \
+It will start PostgreSQL database and Adminer at http://localhost:9080/. 
 
 Database connection url:
  ```shell script
